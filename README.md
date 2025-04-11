@@ -38,8 +38,16 @@ Shoot_Zoombie/Shoot_Zoombie.sln
 ```
 3️⃣ 點擊「開始」執行遊戲
 
+---
+
 ## 🛠️ 故障排除
 壞人圖片不出現？
 請確認 Resources 資料夾內的圖片沒有遺失
 
 **建議將專案「整個資料夾」下載下來或 clone，避免缺漏圖像資源**
+
+---
+
+## 🎮 遊戲展示畫面
+
+👉 [觀看完整影片](https://drive.google.com/file/d/1H9Ex6V-5rVwmcLiJ3nVFBCfp7E3zH7bO/view?usp=sharing)
