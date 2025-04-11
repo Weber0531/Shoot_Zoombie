@@ -32,11 +32,11 @@
 git clone https://github.com/Weber0531/Shoot_Zoombie.git
 ```
 
-2️⃣ 使用 Visual Studio 開啟 .sln 解決方案檔案：
+2️⃣ 開啟執行檔：
 ```bash
-Shoot_Zoombie/Shoot_Zoombie.sln
+cd Shoot_Zoombie/ShootZombie/bin/Debug
+./ShootZombie.exe
 ```
-3️⃣ 點擊「開始」執行遊戲
 
 ---
 
