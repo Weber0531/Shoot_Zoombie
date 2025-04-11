@@ -35,4 +35,5 @@ git clone https://github.com/Weber0531/Shoot_Zoombie.git
 ## 🛠️ 故障排除
 壞人圖片不出現？
 請確認 Resources 資料夾內的圖片沒有遺失
+
 **建議將專案「整個資料夾」下載下來或 clone，避免缺漏圖像資源**
