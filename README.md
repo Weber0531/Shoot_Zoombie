@@ -21,17 +21,23 @@
 
 ## 💻 安裝需求
 
-- 開發工具：Visual Studio 2019 或以上版本
-- .NET Framework：4.7 或以上
+- 安裝 [Visual Studio](https://visualstudio.microsoft.com/zh-hant/) 並啟用「Windows Forms」開發套件
 
 ---
 
 ## 📥 安裝與執行方式
 
-clone本專案：
+1️⃣ clone本專案：
 ```bash
 git clone https://github.com/Weber0531/Shoot_Zoombie.git
 ```
+
+2️⃣ 使用 Visual Studio 開啟 .sln 解決方案檔案：
+```bash
+Shoot_Zoombie/Shoot_Zoombie.sln
+```
+3️⃣ 點擊「開始」執行遊戲
+
 ## 🛠️ 故障排除
 壞人圖片不出現？
 請確認 Resources 資料夾內的圖片沒有遺失
