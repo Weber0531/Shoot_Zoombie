@@ -1,5 +1,7 @@
 # Shoot Zombie Game 🎮
 
+![image](https://github.com/Weber0531/Shoot_Zoombie/blob/master/images/homepage.png)
+
 這是一款使用 C# 製作的桌面反應遊戲，透過點擊鍵盤(c,v,n,m)擊打壞人來獲得分數並挑戰極限反應速度。
 
 ---
@@ -27,16 +29,22 @@
 
 ## 📥 安裝與執行方式
 
-1️⃣ clone本專案：
+1. clone本專案
 ```bash
 git clone https://github.com/Weber0531/Shoot_Zoombie.git
 ```
 
-2️⃣ 開啟執行檔：
+2. 進入資料夾
 ```bash
-cd Shoot_Zoombie/ShootZombie/bin/Debug
-./ShootZombie.exe
+cd Shoot_Zoombie
 ```
+
+3. 開啟檔案
+```bash
+ShootZombie.sln
+```
+
+4. 點擊上方執行
 
 ---
 
@@ -51,3 +59,5 @@ cd Shoot_Zoombie/ShootZombie/bin/Debug
 ## 🎮 遊戲展示畫面
 
 👉 [觀看完整影片](https://drive.google.com/file/d/1H9Ex6V-5rVwmcLiJ3nVFBCfp7E3zH7bO/view?usp=sharing)
+
+![image](https://github.com/Weber0531/Shoot_Zoombie/blob/master/images/instructions.png)
