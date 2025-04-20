@@ -1,0 +1,14 @@
+# VS 專案常見不需要追蹤的檔案
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# 編譯輸出
+bin/
+obj/
+
+# 其他
+*.exe
+*.pdb
